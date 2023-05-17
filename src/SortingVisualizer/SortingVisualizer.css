@@ -1,0 +1,24 @@
+*{
+    background-color: black;
+}
+
+.array-container {
+    display: flex;
+    flex-direction: column;
+    left: 100px;
+    margin-top: 3%;
+    /* top: 100px; */
+  }
+  
+  .array-bar {
+    width: 20px;
+    display: inline-block;
+    margin: 0 1px;
+  }
+
+  .button{
+    font-size: larger;
+    margin: 3%;
+    background-color: blue;
+    border-radius: 5px;
+  }
